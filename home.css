@@ -1,0 +1,256 @@
+/* Home */
+#home{
+width: 150px; 
+color:#00619D;
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 28px;
+}
+
+/* Fasilitas */
+#fasilitas{
+width: 150px; 
+color:#00619D; 
+font-family: Helvetica; 
+font-weight: bold;
+font-size: 20px;
+}
+
+/* About */
+#about{
+width: 150px; 
+color:#00619D; 
+font-family: Helvetica;
+font-weight: bold;
+font-size: 20px;
+}
+
+/* Kontak */
+#kontak{
+width: 150px; 
+color:#00619D; 
+font-family: Helvetica; 
+font-weight: bold;
+font-size: 20px;
+}
+
+/* logo */
+#logo{
+font-family: Helvetica;
+font-style: italic;
+font-weight: bold;
+font-size: 72px;
+color: #00619D;
+text-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+}
+
+/* Deskripsi */
+#deskripsi{
+font-family: Helvetica;
+font-style: italic;
+font-weight: bold;
+font-size: 36px;
+line-height: 41px;
+text-align: center;
+color: #00619D;
+}
+
+/* Aneka Produk */
+#aneka{
+font-family: Helvetica;
+font-style: italic;
+font-weight: bold;
+font-size: 60px;
+line-height: 70px;
+text-align: center;
+letter-spacing: 0.05em;
+color: #00619D;
+}
+
+/* Aneka Produk */
+#aksesoris{
+font-family: Helvetica;
+font-style: italic;
+font-weight: bold;
+font-size: 48px;
+line-height: 55px;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}
+
+}
+
+/* Penginapan */
+#penginapan{
+font-family: Helvetica;
+font-style: italic;
+font-weight: bold;
+font-size: 48px;
+line-height: 55px;
+text-align: center;
+color: #00619D;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* deskrpsi aksesoris */
+#deskripsiaksesoris{
+font-family: Helvetica;
+font-style: normal;
+font-weight: 300;
+font-size: 48px;
+line-height: 55px;
+text-align: center;
+color: #00619D;
+}
+
+/* btn produk */
+#btnproduk{
+font-family: Helvetica;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+color: #00619D;
+
+}
+
+/* icon */
+#icon{
+width: 121px;
+height: 121px;
+left: 202px;
+top: 2145px;
+flood-color: #00619D;
+filter: drop-shadow(0px 5px 5px rgba(0, 0, 0, 0.25));
+}
+
+/* desicon */
+#descicon{
+font-family: Helvetica;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 45px;
+text-align: center;
+color: #00619D;
+}
+
+/* desicon2 */
+#descicon2{
+font-family: Helvetica;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 45px;
+text-align: center;
+color: #00619D;
+}
+
+/* exp */
+#exp{
+font-family: Helvetica;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+color: #00619D;
+}
+
+/* exp2 */
+#exp2{
+font-family: Helvetica;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+color: #00619D;
+}
+
+/* Pemesanan */
+#pemesanan{
+font-family: Helvetica;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 200px;
+text-align: center;
+letter-spacing: 0.05em;
+color: #00619D;
+}
+
+/* icon kirim */
+#iconkirim{
+width: 167px;
+height: 167px;
+}
+
+/* sub kirim */
+#subkirim{
+font-family: Helvetica;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 45px;
+text-align: center;
+color: #00619D;
+}
+
+/* desckirim */
+#desckirim{
+font-family: Helvetica;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+color: #00619D;
+}
+
+/* footer 1*/
+#logofooter{
+font-family: Helvetica;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 69px;
+color: #FEFEFC;
+}
+
+/* footer 2*/
+#subfooter{
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+text-align: justify;
+color: #FEFEFC;
+
+}
+
+/* footer 3*/
+#footermenu{
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 28px;
+color: #FEFEFC;
+;
+
+}
+
+/* footer 4*/
+#textfooter{
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 28px;
+color: ##FEFEFC;

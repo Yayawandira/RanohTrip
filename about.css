@@ -1,0 +1,98 @@
+/* tentang */
+#tentang{
+width: 150px; 
+color:#00619D;
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 28px;
+}
+
+/* aksesoris */
+#aksesoris{
+width: 150px; 
+color:#00619D; 
+font-family: Helvetica; 
+font-weight: bold;
+font-size: 20px;
+}
+
+/* Judul */
+#judul{
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 72px;
+text-align: center;
+color: #00619D;
+}
+
+/* title */
+#title{
+font-family: Helvetica;
+font-style: italic;
+font-weight: bold;
+font-size: 35px;
+line-height: 55px;
+align-items: center;
+text-align: left;
+color: #00619D;
+}
+
+/* desc */
+#desc{
+font-family: 	Helvetica;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+text-align: justify;
+color:#00619D;
+}
+
+/* footer 1*/
+#logofooter{
+font-family: Helvetica;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 69px;
+color: #FEFEFC;
+}
+
+/* footer 2*/
+#subfooter{
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+text-align: justify;
+color: #FEFEFC;
+
+}
+
+/* footer 3*/
+#footermenu{
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 28px;
+color: #FEFEFC;
+;
+
+}
+
+/* footer 4*/
+#textfooter{
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 28px;
+color: ##FEFEFC;
+
+}

@@ -1,0 +1,135 @@
+/* Home */
+#home{
+width: 150px; 
+color:#00619D;
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 28px;
+}
+
+/* Fasilitas */
+#fasilitas{
+width: 150px; 
+color:#00619D; 
+font-family: Helvetica; 
+font-weight: bold;
+font-size: 20px;
+}
+
+/* desc */
+#desc{
+font-family: 	Helvetica;
+ont-style: italic;
+font-weight: bold;
+font-size: 30px;
+line-height: 41px;
+align-items: center;
+text-align: center;
+color: #00619D;
+}
+
+/* menu */
+#menu{
+font-family: 	Helvetica;
+ont-style: italic;
+font-weight: bold;
+font-size: 25px;
+line-height: 40px;
+align-items: center;
+text-align: center;
+color: #00619D;
+}
+
+/* Harga */
+#harga{
+font-family: 	Helvetica;
+ont-style: italic;
+font-weight: bold;
+font-size: 20px;
+line-height: 40px;
+align-items: center;
+text-align: center;
+color: #00619D;
+}
+
+
+/* title */
+#title{
+font-family: Helvetica;
+font-style: italic;
+font-weight: bold;
+font-size: 35px;
+line-height: 55px;
+align-items: center;
+text-align: center;
+color: #00619D;
+}
+
+/* title */
+#subtitle{
+font-family: Helvetica;
+font-style: italic;
+font-weight: bold;
+font-size: 36px;
+line-height: 41px;
+align-items: center;
+text-align: center;
+color: #00619D;
+}
+
+/* title */
+#subtitle2{
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 41px;
+align-items: center;
+text-align: center;
+color: #00619D;
+}
+
+* footer 1*/
+#logofooter{
+font-family: Helvetica;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 69px;
+color: #FEFEFC;
+}
+
+/* footer 2*/
+#subfooter{
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+text-align: justify;
+color: #FEFEFC;
+
+}
+
+/* footer 3*/
+#footermenu{
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 28px;
+color: #FEFEFC;
+;
+
+}
+
+/* footer 4*/
+#textfooter{
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 28px;
+color: ##FEFEFC;
